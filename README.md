@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elitexsuraj
+- 👋 Hi, I’m avyan
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on project
